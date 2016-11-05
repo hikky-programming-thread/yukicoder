@@ -6,7 +6,7 @@ http://yukicoder.me/contests/144/table
 コンテスト問題 A  
 提出したコード http://yukicoder.me/submissions/103110  
 
-# 解き方 
+# 僕の解法
 
 入力された点から根元のほうへ辿っていけばよい  
 図のような番号が根元から順番に付けられているので  
